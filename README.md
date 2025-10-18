@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Erica Wang
+Hi there 👋 I'm Erica Wang
 
 <!--
 **qianruixiwang/qianruixiwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
